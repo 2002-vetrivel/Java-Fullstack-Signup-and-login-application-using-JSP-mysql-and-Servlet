@@ -1,4 +1,3 @@
-Sure! Here is a sample README file for a full-stack signup and login application using JSP, Servlet, and MySQL:
 
 ---
 
