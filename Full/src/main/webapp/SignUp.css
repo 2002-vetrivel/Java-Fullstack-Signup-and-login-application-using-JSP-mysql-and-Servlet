@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: white;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+    width: 600px;
+    height: 700px;
+    text-align: center;
+    background-color: #FBFAFF;
+}
+
+.Image {
+    width: 25px;
+    margin-right: 15px;
+    margin-left: -200px;
+    cursor:pointer
+}
+
+.logo {
+    width: 100px;
+    padding: 30px;
+}
+
+.pp {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.form {
+    width: 414px;
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color:#FBFAFF;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid grey;
+    font-size: 20px;
+}
+
+.form::placeholder {
+    font-size: 15px;
+    color: grey;
+}
+
+button
+{
+	width:300px;
+	height:70px;
+	margin-top:20px;
+	border-radius: 20px;
+	background-color: #FFC727;
+	color:black;
+	font-size: 25px;
+	font-weight: 100;
+	border: none;
+	cursor:pointer;
+}
+.ppp
+{
+	font-size: 15px;
+	padding-top:10px;
+}
